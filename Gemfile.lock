@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    childprocess (4.1.0)
+    osc-ruby (1.1.4)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  childprocess
+  osc-ruby
+
+BUNDLED WITH
+   2.2.30
