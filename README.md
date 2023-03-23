@@ -5,7 +5,7 @@ It uses [osc-ruby](https://github.com/aberant/osc-ruby) to send messages for `st
 
 * Linux-like OS
 * Ruby
-* `wget`, `unzip`, `gcc` with `alsa` and `lo` libraries
+* `wget`, `unzip`, `gcc` with `libasound2-dev` and `liblo-dev` libraries
 
 ## Usage
 
